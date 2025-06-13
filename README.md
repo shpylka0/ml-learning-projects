@@ -12,7 +12,7 @@ The projects cover key ML topics such as regression, classification, decision tr
 |-----------------------------|-------------|
 | `basic-linear-model`        | Introduction to simple regression with a synthetic dataset. |
 | `binary-classification-models` | Comparison of logistic regression and KNN for binary classification tasks. |
-| `digit-recognition-mnist`      | Predicting car prices using numerical and categorical features. |
+| `digit-recognition-mnist`      | Classification of handwritten numbers (MNIST) |
 | `tree-model-car-price`      | Applying decision trees and random forests to the car price dataset. |
 | `spotify-genre-classification` | Final project. Multi-class classification of music genres using Spotify audio features. |
 
