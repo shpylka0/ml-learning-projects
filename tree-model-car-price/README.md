@@ -12,12 +12,13 @@ This homework explores Decision Trees for regression tasks. It includes model tr
 2. Place the `car_data.csv` file inside the `data/` folder (you may need to create this folder).
 
 Final structure should look like:
+```
 project-folder/
 │
 ├──tree-model-car-price.ipynb
 └──data/
 └── car_data.csv
-
+```
 ## Requirements
 - Python 3.x
 - Libraries: pandas, scikit-learn, matplotlib, seaborn, etc.
