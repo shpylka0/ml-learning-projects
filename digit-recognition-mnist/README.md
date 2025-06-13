@@ -12,11 +12,13 @@ This assignment applies regression models to predict a target variable using rea
 2. Place the `train.csv` file inside the `data/` folder (you may need to create this folder).
 
 Final structure should look like:
-project-folder/
+```
+digit-recognition-mnist/
 │
-├──digit-recognition-mnist.ipynb.ipynb
-└──data/
-└── train.csv
+├── digit-recognition-mnist.ipynb
+└── data/
+    └── train.csv 
+```
 
 ## Requirements
 - Python 3.x
