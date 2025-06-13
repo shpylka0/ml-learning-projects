@@ -12,12 +12,13 @@ This project builds and compares multiple machine learning models to classify so
 2. Place the `train.csv` file inside the `data/` folder (you may need to create this folder).
 
 Final structure should look like:
+```
 project-folder/
 │
 ├──final_project_spotify_genre.ipynb
 └──data/
 └── train.csv
-
+```
 ## Requirements
 - Python 3.x
 - Libraries: pandas, scikit-learn, matplotlib, seaborn, etc.
